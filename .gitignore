@@ -2,5 +2,6 @@ credentials.json
 token.pickle
 geckodriver.log
 TonerCheck.html
-config.txt
+config.ini
+
 

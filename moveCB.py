@@ -3,4 +3,8 @@
 # the chromebook in the corresponding ou using GAM
 # server location and school name will be contaned int config.txt
 
+import configparser
+import os
 
+config = configparser.ConfigParser()
+config.read('config.ini')
