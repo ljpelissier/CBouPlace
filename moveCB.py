@@ -9,3 +9,5 @@ import pandas as pd
 
 config = configparser.ConfigParser()
 config.read('config.ini')
+
+dataFrame =  pd.read_csv(config['hostpath']['hostPath'] + config['hostpath']['fileName'], index_col='StudentID')
