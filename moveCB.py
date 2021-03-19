@@ -5,6 +5,7 @@
 
 import configparser
 import os
+import pandas as pd
 
 config = configparser.ConfigParser()
 config.read('config.ini')
