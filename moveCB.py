@@ -11,3 +11,4 @@ config = configparser.ConfigParser()
 config.read('config.ini')
 
 dataFrame =  pd.read_csv(config['hostpath']['hostPath'] + config['hostpath']['fileName'], index_col='StudentID')
+dataFrame['CBSerialNumber'] = dataFrame['CBSerialNumber'].str.split(' ', expand=False).str[0]
