@@ -1,0 +1,12 @@
+[hostpath]
+hostPath = //10.0.10.10/FTPfolder/
+fileName = StudentData.csv
+[ouRoot]
+04:/Chromebooks/StudentChromebooks/SchoolA/
+05:/Chromebooks/StudentChromebooks/SchoolA/
+06:/Chromebooks/StudentChromebooks/SchoolA/
+07:/Chromebooks/StudentChromebooks/SchoolA/
+08:/Chromebooks/StudentChromebooks/SchoolA/
+01:/Chromebooks/StudentChromebooks/SchoolB/
+02:/Chromebooks/StudentChromebooks/SchoolB/
+03:/Chromebooks/StudentChromebooks/SchoolB/
