@@ -31,17 +31,17 @@ The second lists the grade level as entered in the csv and the root of the ou wh
 The program will add ClassOfYYYY to the end of this root.
 
 [hostpath]  
-host = //hostIPaddres/path
-file = filename.csv
-[ouRoot]
-04:/Chromebooks/StudentChromebooks/SchoolA/
-05:/Chromebooks/StudentChromebooks/SchoolA/
-06:/Chromebooks/StudentChromebooks/SchoolA/
-07:/Chromebooks/StudentChromebooks/SchoolA/
-08:/Chromebooks/StudentChromebooks/SchoolA/
-01:/Chromebooks/StudentChromebooks/SchoolB/
-02:/Chromebooks/StudentChromebooks/SchoolB/
-03:/Chromebooks/StudentChromebooks/SchoolB/
+host = //hostIPaddres/path  
+file = filename.csv  
+[ouRoot]  
+04:/Chromebooks/StudentChromebooks/SchoolA/  
+05:/Chromebooks/StudentChromebooks/SchoolA/  
+06:/Chromebooks/StudentChromebooks/SchoolA/  
+07:/Chromebooks/StudentChromebooks/SchoolA/  
+08:/Chromebooks/StudentChromebooks/SchoolA/  
+01:/Chromebooks/StudentChromebooks/SchoolB/  
+02:/Chromebooks/StudentChromebooks/SchoolB/  
+03:/Chromebooks/StudentChromebooks/SchoolB/  
 
 For example the year 2020-21 the graduating class will have their chromebooks placed in the OU 
 
